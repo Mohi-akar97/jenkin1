@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-11T18:16:32 IST" name="Default suite" finished-at="2023-12-11T18:17:29 IST" duration-ms="56673">
+    <groups>
+    </groups>
+    <test started-at="2023-12-11T18:16:32 IST" name="Default test" finished-at="2023-12-11T18:17:29 IST" duration-ms="56673">
+      <class name="test_classes.login_test_class">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test_classes.login_test_class@5ddeb7cb]" started-at="2023-12-11T18:16:32 IST" name="beforeMethod" finished-at="2023-12-11T18:17:18 IST" duration-ms="45994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="varify_email_pass()[pri:0, instance:test_classes.login_test_class@5ddeb7cb]" started-at="2023-12-11T18:17:18 IST" name="varify_email_pass" finished-at="2023-12-11T18:17:18 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_email_pass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:test_classes.login_test_class@5ddeb7cb]" started-at="2023-12-11T18:17:18 IST" name="AfterTest" finished-at="2023-12-11T18:17:23 IST" duration-ms="4258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test_classes.login_test_class@5ddeb7cb]" started-at="2023-12-11T18:17:23 IST" name="beforeMethod" finished-at="2023-12-11T18:17:25 IST" duration-ms="1942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="varify_title()[pri:0, instance:test_classes.login_test_class@5ddeb7cb]" started-at="2023-12-11T18:17:25 IST" name="varify_title" finished-at="2023-12-11T18:17:25 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_title -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:test_classes.login_test_class@5ddeb7cb]" started-at="2023-12-11T18:17:25 IST" name="AfterTest" finished-at="2023-12-11T18:17:29 IST" duration-ms="4214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- test_classes.login_test_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
